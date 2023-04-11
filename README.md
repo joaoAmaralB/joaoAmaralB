@@ -3,8 +3,8 @@
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-amaral-bonfim-1180a2266/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:jpabonfim@gmail.com">
-      <img src="https://img.shields.io/badge/-Contact%20me!-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:jpabonfim@gmail.com%22%3E">
+    <a href="mailto:joaopedro.amaralb@gmail.com">
+      <img src="https://img.shields.io/badge/-Contact%20me!-EA4335?logo=gmail&logoColor=white&style=for-the-badge&link=mailto:joaopedro.amaralb@gmail.com%22%3E">
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=joaoAmaralB&style=flat-square&color=blue" alt="Perfil views"/>
@@ -21,7 +21,7 @@
 
 - :zap: In my free time, I'm learning React, Typescript and Python.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-amaral-bonfim-1180a2266/) [![Gmail Badge](https://img.shields.io/badge/-Contact%20me!-EA4335?logo=gmail&logoColor=white&style=flat&link=mailto:jpabonfim@gmail.com%22%3E)](mailto:jpabonfim@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-amaral-bonfim-1180a2266/) [![Gmail Badge](https://img.shields.io/badge/-Contact%20me!-EA4335?logo=gmail&logoColor=white&style=flat&link=mailto:joaopedro.amaralb@gmail.com%22%3E)](mailto:joaopedro.amaralb@gmail.com)
 
 ---
 
