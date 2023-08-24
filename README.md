@@ -15,7 +15,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 20 years old
+- 21 years old
 - Computer Science undergraduate at Instituto Federal de Brasília
 - Looking for internship preferably in front-end area
 - Willing to learn and deepen my knowledge
