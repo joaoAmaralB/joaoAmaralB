@@ -15,11 +15,11 @@
 </div>
 
 ### :man_technologist: About Me :
-- 21 years old
+- 22 years old
 - Computer Science undergraduate at Instituto Federal de Brasília
-- Looking for internship preferably in front-end area
+- Junior Full-Stack Dev at Voxel Gestão
 - Willing to learn and deepen my knowledge
-- In my free time, I'm learning React, Typescript and Python.
+- In my free time, I'm learning more about AWS, Docker and CI/CD.
 
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-amaral-bonfim-1180a2266/) [![Gmail Badge](https://img.shields.io/badge/-Contact%20me!-EA4335?logo=gmail&logoColor=white&style=flat&link=mailto:joaopedro.amaralb@gmail.com%22%3E)](mailto:joaopedro.amaralb@gmail.com)
 
