@@ -15,7 +15,7 @@
 </div>
 
 ### :man_technologist: About Me :
-- 22 years old
+- 23 years old
 - Computer Science undergraduate at Instituto Federal de Brasília
 - Junior Full-Stack Dev at Voxel Gestão
 - Willing to learn and deepen my knowledge
